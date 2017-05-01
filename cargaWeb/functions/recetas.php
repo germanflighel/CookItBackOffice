@@ -1,0 +1,3 @@
+<?php
+//FUNCIONES SI HICIERA FALTA
+ ?>
